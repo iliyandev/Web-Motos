@@ -1,0 +1,21 @@
+#Estilo{}
+
+#Contenedor {
+	width: 700px;
+	height: 600px;
+	text-align: center;
+
+	margin: auto;
+	border: 4px dashed #FFF;
+}
+#Cuadros {
+	text-align: center;
+	
+}
+#body {
+	text-align: center;
+}
+#Acordeon {
+	width: 590px;
+	height: 390px;
+}

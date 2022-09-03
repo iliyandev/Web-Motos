@@ -1,0 +1,19 @@
+@charset "utf-8";
+#Estilo3 {
+}
+#body {
+	text-align: center;
+}
+#Contenedor {
+	width: 700px;
+	height: 600px;
+	text-align: center;
+	background-color: #;
+	margin: auto;
+	border: 4px dashed #FFF;
+}
+#Tabla {
+	color: #fff;
+	font-size: 16px;
+	
+}
